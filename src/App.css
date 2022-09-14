@@ -14,8 +14,9 @@
 }
 
 .App-header {
+  padding-top: 50px;
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,4 +36,31 @@
   to {
     transform: rotate(360deg);
   }
+}
+.navDiv{
+  position: fixed;
+  width: 100vw;
+  background-color: whitesmoke;
+  z-index: 1;
+  user-select: none;
+}
+
+.sectionLink{
+  text-decoration: none;
+  display: inline;
+  padding: 20px 10px;
+  font-weight: 700;
+  font-size: large;
+}
+
+.navList{
+  padding-top: 15px;
+  margin-top: 0;
+  padding-left: 0;
+
+}
+.documentBody{
+  margin: auto;
+  max-width: 380px;
+  text-align: justify;
 }
