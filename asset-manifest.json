@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kspapp/static/css/main.d5ae1fe9.css",
-    "main.js": "/kspapp/static/js/main.228efa5d.js",
+    "main.css": "/kspapp/static/css/main.d6c9a6ec.css",
+    "main.js": "/kspapp/static/js/main.cffd9663.js",
     "static/js/787.43ce429e.chunk.js": "/kspapp/static/js/787.43ce429e.chunk.js",
     "static/media/motionTrack.mp4": "/kspapp/static/media/motionTrack.ea59c69dc23333c517fb.mp4",
     "static/media/kspVideo.mp4": "/kspapp/static/media/kspVideo.8f77d9d7ad91336e75d3.mp4",
@@ -16,12 +16,12 @@
     "static/media/ekccfinal.jpeg": "/kspapp/static/media/ekccfinal.8739d1f39b4ba4ef1887.jpeg",
     "static/media/logo.png": "/kspapp/static/media/logo.56eb9353d835a14157de.png",
     "index.html": "/kspapp/index.html",
-    "main.d5ae1fe9.css.map": "/kspapp/static/css/main.d5ae1fe9.css.map",
-    "main.228efa5d.js.map": "/kspapp/static/js/main.228efa5d.js.map",
+    "main.d6c9a6ec.css.map": "/kspapp/static/css/main.d6c9a6ec.css.map",
+    "main.cffd9663.js.map": "/kspapp/static/js/main.cffd9663.js.map",
     "787.43ce429e.chunk.js.map": "/kspapp/static/js/787.43ce429e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5ae1fe9.css",
-    "static/js/main.228efa5d.js"
+    "static/css/main.d6c9a6ec.css",
+    "static/js/main.cffd9663.js"
   ]
 }
