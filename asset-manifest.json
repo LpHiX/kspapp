@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/kspapp/static/css/main.d6c9a6ec.css",
-    "main.js": "/kspapp/static/js/main.cffd9663.js",
+    "main.css": "/kspapp/static/css/main.fbce41ed.css",
+    "main.js": "/kspapp/static/js/main.fab4425c.js",
     "static/js/787.43ce429e.chunk.js": "/kspapp/static/js/787.43ce429e.chunk.js",
-    "static/media/motionTrack.mp4": "/kspapp/static/media/motionTrack.ea59c69dc23333c517fb.mp4",
-    "static/media/kspVideo.mp4": "/kspapp/static/media/kspVideo.8f77d9d7ad91336e75d3.mp4",
-    "static/media/rocketVideo.mp4": "/kspapp/static/media/rocketVideo.5a22e8a558e07859b689.mp4",
-    "static/media/background.jpg": "/kspapp/static/media/background.a5d31567b2f6b914e6a8.jpg",
-    "static/media/starshipVideo.mp4": "/kspapp/static/media/starshipVideo.56139c9f1e88ef0f025e.mp4",
-    "static/media/wooshVideoTrim.mp4": "/kspapp/static/media/wooshVideoTrim.a1bda6908a67706e0930.mp4",
-    "static/media/rocketPic.png": "/kspapp/static/media/rocketPic.84d56cc851aeefbea7ac.png",
-    "static/media/lightboxWork.jpeg": "/kspapp/static/media/lightboxWork.e8481f2f7ff5726f7e3a.jpeg",
-    "static/media/blackboxWork.png": "/kspapp/static/media/blackboxWork.4e5dced4c8ef691df116.png",
+    "static/media/kspVideo.mp4": "/kspapp/static/media/kspVideo.c5cc9ce7ac76d2da5256.mp4",
+    "static/media/motionTrack.mp4": "/kspapp/static/media/motionTrack.7f00609c4a9631a47b72.mp4",
+    "static/media/starshipVideo.mp4": "/kspapp/static/media/starshipVideo.33439183a07dcf51bc26.mp4",
+    "static/media/wooshVideoTrim.mp4": "/kspapp/static/media/wooshVideoTrim.839aaa11b3b3c7adce90.mp4",
+    "static/media/rocketVideo.mp4": "/kspapp/static/media/rocketVideo.9a977232a4c9ffc77181.mp4",
+    "static/media/background.webp": "/kspapp/static/media/background.151c19ad23de3045774f.webp",
     "static/media/KSP_CVDraftFinal_20220914.pdf": "/kspapp/static/media/KSP_CVDraftFinal_20220914.a3760b112eec06bf7f9f.pdf",
-    "static/media/ekccfinal.jpeg": "/kspapp/static/media/ekccfinal.8739d1f39b4ba4ef1887.jpeg",
-    "static/media/logo.png": "/kspapp/static/media/logo.56eb9353d835a14157de.png",
+    "static/media/lightboxWork.webp": "/kspapp/static/media/lightboxWork.069c47eb75fb3ff9f795.webp",
+    "static/media/ekccfinal.webp": "/kspapp/static/media/ekccfinal.b9110736d21c145a5063.webp",
+    "static/media/rocketPic.webp": "/kspapp/static/media/rocketPic.ebcc1e15ebffd47fef27.webp",
+    "static/media/blackboxWork.webp": "/kspapp/static/media/blackboxWork.5b606068e11c89f7c554.webp",
+    "static/media/logo.webp": "/kspapp/static/media/logo.7935a7acb4977e4b9b22.webp",
     "index.html": "/kspapp/index.html",
-    "main.d6c9a6ec.css.map": "/kspapp/static/css/main.d6c9a6ec.css.map",
-    "main.cffd9663.js.map": "/kspapp/static/js/main.cffd9663.js.map",
+    "main.fbce41ed.css.map": "/kspapp/static/css/main.fbce41ed.css.map",
+    "main.fab4425c.js.map": "/kspapp/static/js/main.fab4425c.js.map",
     "787.43ce429e.chunk.js.map": "/kspapp/static/js/787.43ce429e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6c9a6ec.css",
-    "static/js/main.cffd9663.js"
+    "static/css/main.fbce41ed.css",
+    "static/js/main.fab4425c.js"
   ]
 }
