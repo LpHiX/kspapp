@@ -1,11 +1,11 @@
 import React from 'react';
 import {useRef} from 'react';
-import logo from './logo.svg';
+import logo from './logo.webp';
 import './App.css';
-import InitiativeText from './InitiativeText';
-import PassionText from './PassionText';
-import TeamworkText from './TeamworkText';
-import ExtraComponent from './ExtraComponent';
+import InitiativeText from './InitiativeText/InitiativeText';
+import PassionText from './PassionText/PassionText';
+import TeamworkText from './TeamworkText/TeamworkText';
+import ExtraComponent from './MoreComponent/MoreComponent';
 
 function App() {
   const initiativeLink = useRef(null);
@@ -29,13 +29,15 @@ function App() {
           <li onClick={() => scrollToSection(initiativeLink)} className="sectionLink">Initiative</li>
           <li onClick={() => scrollToSection(teamworkLink)} className="sectionLink">Teamwork</li>
           <li onClick={() => scrollToSection(passwordLink)} className="sectionLink">Passion</li>
-          <li onClick={() => scrollToSection(extraLink)} className="sectionLink">Extra</li>
+          <li onClick={() => scrollToSection(extraLink)} className="sectionLink">More </li>
           
         </ul>
       </div>
       <header className="App-header">
-        {/*<img src={logo} className="App-logo" alt="logo" />*/}
-        <p>Welcome to my application for KSP! <br/> I am Martin, and I hope you<br/> can enjoy reading this application!</p>
+        <div className="headerBody">
+          <img src={logo} className="App-logo" alt="logo" />
+          <p>Welcome to my application for KSP! I am Martin, and I hope you can enjoy reading this application!</p>
+        </div>
       </header>
       <div className="documentBody">
         <div ref={initiativeLink}><InitiativeText/></div>
